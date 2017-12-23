@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+title: Jervz Website
+description: Test Page for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
